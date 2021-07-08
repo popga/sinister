@@ -1,2 +1,2 @@
 # sinister
-# HTTP Framework with a customer router (abandoned)
+# HTTP Framework with a custom router (abandoned)
